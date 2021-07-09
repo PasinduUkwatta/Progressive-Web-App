@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Progressive-Web-App/static/css/main.179a2038.chunk.css",
+    "main.js": "/Progressive-Web-App/static/js/main.9307be28.chunk.js",
+    "main.js.map": "/Progressive-Web-App/static/js/main.9307be28.chunk.js.map",
+    "runtime-main.js": "/Progressive-Web-App/static/js/runtime-main.bcb2c30d.js",
+    "runtime-main.js.map": "/Progressive-Web-App/static/js/runtime-main.bcb2c30d.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Progressive-Web-App/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.8100a0e6.chunk.js": "/Progressive-Web-App/static/js/2.8100a0e6.chunk.js",
+    "static/js/2.8100a0e6.chunk.js.map": "/Progressive-Web-App/static/js/2.8100a0e6.chunk.js.map",
+    "index.html": "/Progressive-Web-App/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Progressive-Web-App/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.179a2038.chunk.css.map": "/Progressive-Web-App/static/css/main.179a2038.chunk.css.map",
+    "static/js/2.8100a0e6.chunk.js.LICENSE.txt": "/Progressive-Web-App/static/js/2.8100a0e6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Progressive-Web-App/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb2c30d.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.8100a0e6.chunk.js",
+    "static/css/main.179a2038.chunk.css",
+    "static/js/main.9307be28.chunk.js"
+  ]
+}
