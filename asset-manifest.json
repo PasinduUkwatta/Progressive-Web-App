@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/Progressive-Web-App/static/css/main.179a2038.chunk.css",
-    "main.js": "/Progressive-Web-App/static/js/main.9307be28.chunk.js",
-    "main.js.map": "/Progressive-Web-App/static/js/main.9307be28.chunk.js.map",
-    "runtime-main.js": "/Progressive-Web-App/static/js/runtime-main.bcb2c30d.js",
-    "runtime-main.js.map": "/Progressive-Web-App/static/js/runtime-main.bcb2c30d.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/Progressive-Web-App/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.8100a0e6.chunk.js": "/Progressive-Web-App/static/js/2.8100a0e6.chunk.js",
-    "static/js/2.8100a0e6.chunk.js.map": "/Progressive-Web-App/static/js/2.8100a0e6.chunk.js.map",
+    "main.css": "/Progressive-Web-App/static/css/main.62cb83db.chunk.css",
+    "main.js": "/Progressive-Web-App/static/js/main.dd877832.chunk.js",
+    "main.js.map": "/Progressive-Web-App/static/js/main.dd877832.chunk.js.map",
+    "runtime-main.js": "/Progressive-Web-App/static/js/runtime-main.dce711e7.js",
+    "runtime-main.js.map": "/Progressive-Web-App/static/js/runtime-main.dce711e7.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Progressive-Web-App/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8fd48abf.chunk.js": "/Progressive-Web-App/static/js/2.8fd48abf.chunk.js",
+    "static/js/2.8fd48abf.chunk.js.map": "/Progressive-Web-App/static/js/2.8fd48abf.chunk.js.map",
     "index.html": "/Progressive-Web-App/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/Progressive-Web-App/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.179a2038.chunk.css.map": "/Progressive-Web-App/static/css/main.179a2038.chunk.css.map",
-    "static/js/2.8100a0e6.chunk.js.LICENSE.txt": "/Progressive-Web-App/static/js/2.8100a0e6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Progressive-Web-App/static/media/SEGA.47b4bfa9.woff"
+    "precache-manifest.85be708e4163d1cec16527df1709ed8c.js": "/Progressive-Web-App/precache-manifest.85be708e4163d1cec16527df1709ed8c.js",
+    "service-worker.js": "/Progressive-Web-App/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Progressive-Web-App/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.62cb83db.chunk.css.map": "/Progressive-Web-App/static/css/main.62cb83db.chunk.css.map",
+    "static/js/2.8fd48abf.chunk.js.LICENSE.txt": "/Progressive-Web-App/static/js/2.8fd48abf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Progressive-Web-App/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcb2c30d.js",
-    "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.8100a0e6.chunk.js",
-    "static/css/main.179a2038.chunk.css",
-    "static/js/main.9307be28.chunk.js"
+    "static/js/runtime-main.dce711e7.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8fd48abf.chunk.js",
+    "static/css/main.62cb83db.chunk.css",
+    "static/js/main.dd877832.chunk.js"
   ]
 }
